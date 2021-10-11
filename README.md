@@ -4,7 +4,9 @@ My name is Kerim Satirli (he / him).
 
 I'm a senior developer advocate and community builder at [@hashicorp](https://github.com/hashicorp) where I focus on ![HashiCorp Terraform](https://raw.githubusercontent.com/ksatirli/ksatirli/main/assets/hashicorp-terraform.svg) and ![HashiCorp Packer](https://raw.githubusercontent.com/ksatirli/ksatirli/main/assets/hashicorp-packer.svg) (and sometimes ![HashiCorp Nomad](https://raw.githubusercontent.com/ksatirli/ksatirli/main/assets/hashicorp-nomad.svg)).
 
-I'm passionate about codifying infrastructure and helping operators deploy happier, while I learn and work in public.
+I'm passionate about codifying infrastructure and helping operators deploy happier. 
+
+Join me as I work and learn in public!
 
 ---
 
@@ -15,6 +17,7 @@ Check out some of the things I've worked on:
 * Find my Modules on the [Terraform Registry](https://registry.terraform.io/namespaces/operatehappy)
 * Learn about better [Code Quality](https://github.com/ksatirli/code-quality-for-terraform) for Terraform
 * See [iterative infrastructure](https://github.com/ksatirli/iterative-infrastructure) options, feat. Packer
+* Schedule across Clouds with [Terraform and Kubernetes](https://github.com/ksatirli/multi-cloud-kubernetes/)
 * And there's [more](https://github.com/ksatirli?tab=repositories&q=terraform&type=public) &hellip;
 
 ### ![HashiCorp Packer](https://raw.githubusercontent.com/ksatirli/ksatirli/main/assets/hashicorp-packer-icon.png)&nbsp; Packer
