@@ -18,7 +18,7 @@ Check out some of the things I've worked on:
 * Learn about better [Code Quality](https://github.com/ksatirli/code-quality-for-terraform) for Terraform
 * See [iterative infrastructure](https://github.com/ksatirli/iterative-infrastructure) options, feat. Packer
 * Schedule across Clouds with [Terraform and Kubernetes](https://github.com/ksatirli/multi-cloud-kubernetes/)
-* And there's [more](https://github.com/ksatirli?tab=repositories&q=terraform&type=public) &hellip;
+* And there's more, right [here](https://github.com/ksatirli?tab=repositories&q=terraform&type=public)
 
 ### ![HashiCorp Packer](https://raw.githubusercontent.com/ksatirli/ksatirli/main/assets/hashicorp-packer-icon.png)&nbsp; Packer
 
