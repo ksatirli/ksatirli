@@ -2,11 +2,9 @@
 
 My name is Kerim Satirli (he / him).
 
-I'm a senior developer advocate and community builder at [@hashicorp](https://github.com/hashicorp) where I focus on ![HashiCorp Terraform](https://raw.githubusercontent.com/ksatirli/ksatirli/main/assets/hashicorp-terraform.svg) and ![HashiCorp Packer](https://raw.githubusercontent.com/ksatirli/ksatirli/main/assets/hashicorp-packer.svg) (and sometimes ![HashiCorp Nomad](https://raw.githubusercontent.com/ksatirli/ksatirli/main/assets/hashicorp-nomad.svg)).
+I'm a senior developer advocate and community builder at [@hashicorp](https://github.com/hashicorp) where I focus on ![HashiCorp Terraform](https://raw.githubusercontent.com/ksatirli/ksatirli/main/assets/hashicorp-terraform.svg), ![HashiCorp Packer](https://raw.githubusercontent.com/ksatirli/ksatirli/main/assets/hashicorp-packer.svg), and ![HashiCorp Nomad](https://raw.githubusercontent.com/ksatirli/ksatirli/main/assets/hashicorp-nomad.svg)).
 
-I'm passionate about codifying infrastructure and helping operators deploy happier. 
-
-Join me as I work and learn in public!
+I'm passionate about coaching operators and developers sustainable infrastructure and orchestration workflows.
 
 ---
 
@@ -34,10 +32,11 @@ Check out some of the things I've worked on:
 
 ---
 
+# Contact Options
+
 Want to get in touch? I'm usually `@ksatirli`.
 
-Find me on:
-
-* Twitter: [twitter.com/ksatirli](https://twitter.com/ksatirli)
-* LinkedIn: [linkedin.com/in/ksatirli/](https://www.linkedin.com/in/ksatirli/)
+* GitHub: [github.com/ksatirli](https://github.com/ksatirli)
 * Keybase: [keybase.io/ksatirli](https://keybase.io/ksatirli)
+* LinkedIn: [linkedin.com/in/ksatirli/](https://www.linkedin.com/in/ksatirli/)
+* Twitter: [twitter.com/ksatirli](https://twitter.com/ksatirli)
