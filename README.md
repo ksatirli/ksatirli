@@ -2,7 +2,7 @@
 
 My name is Kerim Satirli (he / him).
 
-I'm a senior developer advocate and community builder at [@hashicorp](https://github.com/hashicorp) where I focus on ![HashiCorp Terraform](https://raw.githubusercontent.com/ksatirli/ksatirli/main/assets/hashicorp-terraform.svg), ![HashiCorp Packer](https://raw.githubusercontent.com/ksatirli/ksatirli/main/assets/hashicorp-packer.svg), and ![HashiCorp Nomad](https://raw.githubusercontent.com/ksatirli/ksatirli/main/assets/hashicorp-nomad.svg)).
+I'm a senior developer advocate and community builder at [@hashicorp](https://github.com/hashicorp) where I focus on ![HashiCorp Terraform](https://raw.githubusercontent.com/ksatirli/ksatirli/main/assets/hashicorp-terraform.svg), ![HashiCorp Nomad](https://raw.githubusercontent.com/ksatirli/ksatirli/main/assets/hashicorp-nomad.svg), and ![HashiCorp Packer](https://raw.githubusercontent.com/ksatirli/ksatirli/main/assets/hashicorp-packer.svg).
 
 I'm passionate about coaching operators and developers sustainable infrastructure and orchestration workflows.
 
@@ -12,7 +12,7 @@ Check out some of the things I've worked on:
 
 ### ![HashiCorp Terraform](https://raw.githubusercontent.com/ksatirli/ksatirli/main/assets/hashicorp-terraform-icon.png)&nbsp; Terraform
 
-* Find my Modules on the [Terraform Registry](https://registry.terraform.io/namespaces/operatehappy)
+* Find my Modules on the [Terraform Registry](https://registry.terraform.io/namespaces/ksatirli)
 * Learn about better [Code Quality](https://github.com/ksatirli/code-quality-for-terraform) for Terraform
 * See [iterative infrastructure](https://github.com/ksatirli/iterative-infrastructure) options, feat. Packer
 * Schedule across Clouds with [Terraform and Kubernetes](https://github.com/ksatirli/multi-cloud-kubernetes/)
@@ -20,8 +20,8 @@ Check out some of the things I've worked on:
 
 ### ![HashiCorp Packer](https://raw.githubusercontent.com/ksatirli/ksatirli/main/assets/hashicorp-packer-icon.png)&nbsp; Packer
 
-* Use [GitHub Actions](https://github.com/marketplace/actions/packer-github-actions) with Packer
-* Check out [Packer Templates](https://github.com/operatehappy/packer-hashicorp) for major Clouds
+* Use [GitHub Actions](https://github.com/marketplace/actions/setup-hashicorp-packer) with Packer
+* Check out [Packer Templates](https://github.com/workloads/packer-templates) for major Clouds
 
 ### ![Bash](https://raw.githubusercontent.com/ksatirli/ksatirli/main/assets/bash-icon.png)&nbsp; misc. stuff
 
