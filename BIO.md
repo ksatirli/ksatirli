@@ -8,6 +8,7 @@
   * [short (151 characters)](#short--151-characters-)
   * [medium (296 characters)](#medium--296-characters-)
   * [full (415 characters)](#full--415-characters-)
+* [Headshots](#headshots)
 * [Contact Options](#contact-options)
 <!-- TOC -->
 
@@ -42,6 +43,13 @@ and helped museums bring more of their collections online.
 When Kerim isn't working, he's either spending time with his daughter, 
 enjoying aerial photography, or baking a cake.
 ```
+
+# Headshots
+
+* front-facing at 1000 x 1000 pixels: [ksatirli-1000x1000.jpg](https://github.com/ksatirli/ksatirli/raw/main/headshots/ksatirli-1000x1000.jpg)
+* front-facing at 512 x 512 pixels: [ksatirli-512x512.jpg](https://github.com/ksatirli/ksatirli/raw/main/headshots/ksatirli-512x512.jpg)
+
+Other sizes and options are available on request.
 
 # Contact Options
 
