@@ -57,3 +57,4 @@ Other sizes and options are available on request.
 * Keybase: [keybase.io/ksatirli](https://keybase.io/ksatirli)
 * LinkedIn: [linkedin.com/in/ksatirli/](https://www.linkedin.com/in/ksatirli/)
 * Twitter: [twitter.com/ksatirli](https://twitter.com/ksatirli)
+* Bluesky: [bsky.app/ksatirli.bsky.social](https://staging.bsky.app/profile/ksatirli.bsky.social)
