@@ -4,7 +4,7 @@ My name is Kerim Satirli (he / him).
 
 I'm a senior developer advocate and community builder at [@hashicorp](https://github.com/hashicorp) where I focus on ![HashiCorp Terraform](https://raw.githubusercontent.com/ksatirli/ksatirli/main/assets/hashicorp-terraform.svg), ![HashiCorp Nomad](https://raw.githubusercontent.com/ksatirli/ksatirli/main/assets/hashicorp-nomad.svg), and ![HashiCorp Packer](https://raw.githubusercontent.com/ksatirli/ksatirli/main/assets/hashicorp-packer.svg).
 
-I'm passionate about coaching operators and developers sustainable infrastructure and orchestration workflows.
+I'm passionate about coaching operators and developers on how to build sustainable infrastructure and orchestration workflows.
 
 ---
 
@@ -24,11 +24,6 @@ Check out some of the things I've worked on:
 * Check out [Packer Templates](https://github.com/workloads/packer-templates) for major Clouds
 
 ### ![Bash](https://raw.githubusercontent.com/ksatirli/ksatirli/main/assets/bash-icon.png)&nbsp; misc. stuff
-
-* ⛑️ A Collection of helpful (Bash) [Shell Scripts](https://github.com/operatehappy/shell-helpers)
-* 📈 Retrieve [Instance Metadata](https://github.com/operatehappy/instance-metadata) for major Clouds
-* 📍 Provision macOS environments through [code](https://github.com/operatehappy/place)
-* ⏩ [macOS Shortcuts](https://github.com/operatehappy/shortcuts), delivered via `npm`
 
 ---
 
