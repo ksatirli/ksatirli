@@ -23,8 +23,6 @@ Check out some of the things I've worked on:
 * Use [GitHub Actions](https://github.com/marketplace/actions/setup-hashicorp-packer) with Packer
 * Check out [Packer Templates](https://github.com/workloads/packer-templates) for major Clouds
 
-### ![Bash](https://raw.githubusercontent.com/ksatirli/ksatirli/main/assets/bash-icon.png)&nbsp; misc. stuff
-
 ---
 
 # Contact Options
