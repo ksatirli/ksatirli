@@ -47,6 +47,7 @@ enjoying aerial photography, or baking a cake.
 # Headshots
 
 * front-facing at 1000 x 1000 pixels: [ksatirli-1000x1000.jpg](https://github.com/ksatirli/ksatirli/raw/main/headshots/ksatirli-1000x1000.jpg)
+* front-facing at 1000 x 1000 pixels with clean background: [ksatirli-1000x1000-clean.jpg](https://github.com/ksatirli/ksatirli/blob/main/headshots/ksatirli-1000x1000-clean.jpg)
 * front-facing at 512 x 512 pixels: [ksatirli-512x512.jpg](https://github.com/ksatirli/ksatirli/raw/main/headshots/ksatirli-512x512.jpg)
 
 Other sizes and options are available on request.
@@ -56,5 +57,5 @@ Other sizes and options are available on request.
 * GitHub: [github.com/ksatirli](https://github.com/ksatirli)
 * Keybase: [keybase.io/ksatirli](https://keybase.io/ksatirli)
 * LinkedIn: [linkedin.com/in/ksatirli/](https://www.linkedin.com/in/ksatirli/)
-* Twitter: [twitter.com/ksatirli](https://twitter.com/ksatirli)
+* X (formerly Twitter): [x.com/ksatirli](https://x.com/ksatirli)
 * Bluesky: [bsky.app/ksatirli.bsky.social](https://staging.bsky.app/profile/ksatirli.bsky.social)
