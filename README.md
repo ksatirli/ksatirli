@@ -32,4 +32,4 @@ Want to get in touch? I'm usually `@ksatirli`.
 * GitHub: [github.com/ksatirli](https://github.com/ksatirli)
 * Keybase: [keybase.io/ksatirli](https://keybase.io/ksatirli)
 * LinkedIn: [linkedin.com/in/ksatirli/](https://www.linkedin.com/in/ksatirli/)
-* Twitter: [twitter.com/ksatirli](https://twitter.com/ksatirli)
+* X (formerly Twitter): [x.com/ksatirli](https://x.com/ksatirli)
