@@ -17,31 +17,31 @@
 ## short (151 characters)
 
 ```
-Kerim is a senior developer advocate at HashiCorp, where he coaches operators 
+Kerim is a senior developer advocate at IBM, where he coaches operators 
 and developers on sustainable infrastructure and orchestration workflows.
 ```
 
 ## medium (296 characters)
 
 ```
-Kerim is a senior developer advocate at HashiCorp, where he coaches operators 
+Kerim is a senior developer advocate at IBM, where he coaches operators 
 and developers on sustainable infrastructure and orchestration workflows.
 
-Before he joined HashiCorp, Kerim worked on Industrial IoT for the Amsterdam airport 
+Before he joined IBM, Kerim worked on Industrial IoT for the Amsterdam airport 
 and helped museums bring more of their collections online.
 ```
 
-## full (415 characters)
+## full (420 characters)
 
 ```
-Kerim is a senior developer advocate at HashiCorp, where he coaches operators and 
+Kerim is a senior developer advocate at IBM, where he coaches operators and 
 developers on sustainable infrastructure and orchestration workflows.
 
-Before he joined HashiCorp, Kerim worked on Industrial IoT for the Amsterdam airport 
+Before he joined IBM, Kerim worked on Industrial IoT for the Amsterdam airport 
 and helped museums bring more of their collections online.
 
 When Kerim isn't working, he's either spending time with his daughter, 
-enjoying aerial photography, or baking a cake.
+enjoying scuba diving, aerial photography, or baking a cake.
 ```
 
 # Headshots
