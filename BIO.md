@@ -25,7 +25,7 @@ and developers on sustainable infrastructure and orchestration workflows.
 
 ```
 Kerim is a senior developer advocate at IBM, where he coaches operators 
-and developers on sustainable infrastructure and orchestration workflows.
+and agents on sustainable infrastructure and orchestration workflows.
 
 Before he joined IBM, Kerim worked on Industrial IoT for the Amsterdam airport 
 and helped museums bring more of their collections online.
@@ -35,7 +35,7 @@ and helped museums bring more of their collections online.
 
 ```
 Kerim is a senior developer advocate at IBM, where he coaches operators and 
-developers on sustainable infrastructure and orchestration workflows.
+agents on sustainable infrastructure and orchestration workflows.
 
 Before he joined IBM, Kerim worked on Industrial IoT for the Amsterdam airport 
 and helped museums bring more of their collections online.
@@ -55,7 +55,7 @@ Other sizes and options are available on request.
 # Contact Options
 
 * GitHub: [github.com/ksatirli](https://github.com/ksatirli)
-* Keybase: [keybase.io/ksatirli](https://keybase.io/ksatirli)
 * LinkedIn: [linkedin.com/in/ksatirli/](https://www.linkedin.com/in/ksatirli/)
 * X (formerly Twitter): [x.com/ksatirli](https://x.com/ksatirli)
 * Bluesky: [bsky.app/ksatirli.bsky.social](https://staging.bsky.app/profile/ksatirli.bsky.social)
+* Keybase: [keybase.io/ksatirli](https://keybase.io/ksatirli)
